@@ -4,3 +4,6 @@
 [submodule "auth-service"]
 	path = auth-service
 	url = https://github.com/MarcelinB/UA_AUTH_MS
+[submodule "proxi-api"]
+	path = proxi-api
+	url = https://github.com/MarcelinB/UA_PROXI_API
